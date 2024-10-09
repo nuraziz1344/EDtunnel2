@@ -17,3 +17,6 @@ workers_dev = true
 [vars]
 PROXYIP = "47.245.111.231:443,178.128.91.137:443"
 UUID = "eeceaacb-2be5-4da7-aacd-ea97d887dd37"
+
+[observability]
+enabled = true
