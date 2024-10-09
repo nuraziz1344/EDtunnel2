@@ -38,11 +38,11 @@ ask question and cloudflare ips: [https://t.me/edtunnel](https://t.me/edtunnel)
 
 ## Deploy in worker.dev
 
-1. Copy `_worker.js` code from [here](https://github.com/6Kmfi6HP/EDtunnel/blob/main/_worker.js).
+1. Copy `_worker.js` code from [here](https://github.com/nuraziz1344/EDtunnel2/blob/main/_worker.js).
 
 2. Alternatively, you can click the button below to deploy directly.
 
-   [![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/6Kmfi6HP/EDtunnel)
+   [![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/nuraziz1344/EDtunnel2)
 
 3. Noneed add `nodejs_compat` at setting Compatibility flags
 
